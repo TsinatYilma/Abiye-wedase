@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+bor-white{
+    border: 2px solid white;
+}
+bor-black{
+    border: 2px solid black;
+}
+body{
+    background: #f4ecdd;
+}

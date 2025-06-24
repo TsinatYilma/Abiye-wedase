@@ -1,0 +1,23 @@
+.rhap_volume-controls {
+    display: none !important;
+  }
+.rhap_additional-controls {
+    display: none !important;
+  }
+.rhap_controls-section{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.rehab_main .rehab_stacked{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.rhap_progress-indicator {
+    background-color: #13affd !important; 
+  }
+.rhap_progress-filled {
+    background-color: #13affd !important; /* Change to your desired color */
+  }
